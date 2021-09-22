@@ -12,4 +12,5 @@ Padrões explorados:
 
 Implementação em Java Puro e usando o Spring Framework.
 
-![Digital Innovation One](https://github.com/jorgelucas77/logotipos/dio.png)
+![Digital Innovation One](https://digitalinnovation.one)
+<br><a href="https://digitalinnovation.one" target="_blank"> <img src="https://raw.githubusercontent.com/jorgelucas77/logotipos/main/dio.png" width="150" /></a>
