@@ -11,3 +11,5 @@ Padrões explorados:
 
 
 Implementação em Java Puro e usando o Spring Framework.
+
+![Digital Innovation One](https://github.com/jorgelucas77/logotipos/dio.png)
